@@ -4,7 +4,7 @@ An AI-powered Customer Support Ticket Prediction and Routing System that automat
 
 ## Author
 
-**Dhruv Yadav**
+**Prathu Garg**
 
 ## Project Overview
 
@@ -224,9 +224,8 @@ The application provides visual and tabular analysis of the processed tickets.
 
 ## Author
 
-**Dhruv Yadav**
+**Prathu Garg**
 
-GitHub:  
-https://github.com/DhruvYadav3007
+
 
 
